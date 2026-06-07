@@ -128,3 +128,41 @@ a:hover {
     color: #666666;
     margin-top: 2rem;
 }
+
+.site-footer {
+    border-top: 1px solid #e5e5e5;
+    margin: 5rem auto 0;
+    padding: 2rem;
+    text-align: center;
+    color: #666666;
+    font-size: 0.9rem;
+}
+
+.social-links {
+    margin-bottom: 1rem;
+}
+
+.social-links a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0.35rem;
+    width: 2.2rem;
+    height: 2.2rem;
+    border: 1px solid #cccccc;
+    border-radius: 50%;
+    color: #222222;
+    text-decoration: none;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.social-links a:hover {
+    border-color: #ba0c2f;
+    color: #ba0c2f;
+    opacity: 1;
+}
+
+.copyright {
+    margin: 0;
+}
