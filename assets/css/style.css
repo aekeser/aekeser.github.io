@@ -122,3 +122,9 @@ a:hover {
         font-size: 2.6rem;
     }
 }
+
+.affiliation {
+    font-style: italic;
+    color: #666666;
+    margin-top: 2rem;
+}
