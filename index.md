@@ -7,7 +7,7 @@ title: Home
 
 <div class="home-text">
 
-<h1>Research Summary</h1>
+<h1>Summary</h1>
 
 <p>
 I am a researcher in language processing, acquired language disorders, and computational linguistics. My research examines the cognitive and linguistic mechanisms underlying sentence comprehension, lexical-semantic processing, aphasia, and second language acquisition. Using experimental, corpus-based, and computational approaches, I investigate how language is represented, processed, and disrupted across typical and clinical populations.
