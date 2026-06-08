@@ -164,3 +164,13 @@ a:hover {
 .copyright {
     margin: 0;
 }
+
+.language-switch {
+    margin-left: 2rem;
+    font-size: 0.95rem;
+    color: #666666;
+}
+
+.language-switch a {
+    margin-left: 0;
+}

@@ -1,11 +1,25 @@
 <header class="site-header">
-  <a class="site-title" href="/">Ahmet Emre Keser</a>
+  <a class="site-title" href="{% if page.lang == 'tr' %}/tr/{% else %}/{% endif %}">Ahmet Emre Keser</a>
 
   <nav class="site-nav">
-    <a href="/">Home</a>
-    <a href="/research/">Research</a>
-    <a href="/teaching/">Teaching</a>
-    <a href="/cv/">CV</a>
-    <a href="/contact/">Contact</a>
+    {% if page.lang == "tr" %}
+      <a href="/tr/">Ana Sayfa</a>
+      <a href="/tr/arastirma/">Araştırma</a>
+      <a href="/tr/ogretim/">Öğretim</a>
+      <a href="/tr/cv/">CV</a>
+      <a href="/tr/iletisim/">İletişim</a>
+      <span class="language-switch">
+        <a href="/">EN</a> | <span>TR</span>
+      </span>
+    {% else %}
+      <a href="/">Home</a>
+      <a href="/research/">Research</a>
+      <a href="/teaching/">Teaching</a>
+      <a href="/cv/">CV</a>
+      <a href="/contact/">Contact</a>
+      <span class="language-switch">
+        <span>EN</span> | <a href="/tr/">TR</a>
+      </span>
+    {% endif %}
   </nav>
 </header>
