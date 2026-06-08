@@ -13,7 +13,7 @@ Güncel özgeçmişimin PDF sürümüne yukarıdaki bağlantıdan erişebilirsin
 
 ## Araştırma Alanları
 
-Dil İşleme • Edinilmiş Dil Bozuklukları (Afazi) • Hesaplamalı Dilbilim • Psikodilbilim • Nörodilbilim
+Dil İşleme • Edinilmiş Dil Bozuklukları (Afazi) • Bilgisayarlı\Hesaplamalı Dilbilim • Psikodilbilim • Nörodilbilim
 
 ## Eğitim
 
@@ -21,7 +21,7 @@ Dil İşleme • Edinilmiş Dil Bozuklukları (Afazi) • Hesaplamalı Dilbilim 
 Dilbilim Doktora Programı (Beklenen Mezuniyet: Bahar 2028)
 
 **Alabama Üniversitesi**  
-Uygulamalı Dilbilim ve ESL, Yüksek Lisans (2024)
+Uygulamalı Dilbilim, Yüksek Lisans (2024)
 
 **Orta Doğu Teknik Üniversitesi**  
 Yabancı Dil Eğitimi, Lisans (2022)
