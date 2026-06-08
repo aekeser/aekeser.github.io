@@ -6,32 +6,28 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-A downloadable PDF version of my CV will be available here.
+[Download CV (PDF)](/assets/pdf/Keser_CV_Summer_2026.pdf)
+
+My current curriculum vitae is available as a downloadable PDF.
+
+## Research Areas
+
+Language Processing • Acquired Language Disorders (Aphasia) • Computational Linguistics • Psycholinguistics • Neurolinguistics
 
 ## Education
 
-Content forthcoming.
+**University of Georgia**  
+Ph.D. in Linguistics (Expected Spring 2028)
 
-## Research Interests
+**University of Alabama**  
+M.A. in Applied Linguistics and ESL (2024)
 
-Language processing; acquired language disorders; aphasia; computational linguistics; sentence processing; lexical-semantic processing.
+**Middle East Technical University**  
+B.A. in Foreign Language Education (2022)
 
-## Academic Appointments
+## Current Research
 
-Content forthcoming.
+- An Eye-Tracking Investigation of Auditory Language Processing in Neurotypical Adults
+- Structural-Linguistic Variables in Second Language Proficiency Assessment: A Cross-Linguistic Study of TOEFL iBT Scores
 
-## Publications
-
-Content forthcoming.
-
-## Conference Presentations
-
-Content forthcoming.
-
-## Teaching Experience
-
-Content forthcoming.
-
-## Technical Skills
-
-Content forthcoming.
+For a complete record of publications, presentations, teaching, grants, and professional activities, please download the full CV above.
