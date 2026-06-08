@@ -6,30 +6,53 @@ permalink: /research/
 
 # Research
 
-My research lies at the intersection of language processing, acquired language disorders, and computational approaches to language. I am particularly interested in how linguistic and cognitive mechanisms support sentence comprehension, lexical-semantic processing, and language use across both typical and clinical populations.
+My research examines how language is processed in neurotypical and clinical populations, with a particular focus on aphasia. I draw on experimental and computational methods to investigate the mechanisms underlying language comprehension and production.
 
 ## Research Areas
 
 ### Language Processing
 
-I investigate the cognitive and linguistic mechanisms underlying real-time language comprehension, with a particular focus on sentence processing, syntactic complexity, argument structure, and working memory.
+My work investigates real-time language comprehension, sentence processing, lexical-semantic processing, and the interaction between linguistic representations and cognitive mechanisms such as working memory.
 
-### Aphasia and Acquired Language Disorders
+### Acquired Language Disorders
 
-My research examines language impairment following neurological injury, particularly aphasia. This work explores the relationship between linguistic representations, cognitive constraints, and language rehabilitation outcomes.
+I am interested in aphasia and related language disorders, particularly the cognitive and linguistic factors that influence language impairment and rehabilitation outcomes.
 
-### Computational Linguistics
+### Computational Approaches to Language
 
-I am interested in computational approaches to language analysis, including corpus-based methods, quantitative modeling, and the application of computational tools to questions in linguistics and clinical language research.
+My research also explores computational and quantitative approaches to language, including natural language processing, corpus-based methods, and reproducible research infrastructure.
 
-## Current Projects
+## Ongoing Projects
 
-Details will be added as projects progress.
+### An Eye-Tracking Investigation of Auditory Language Processing in Neurotypical Adults
 
-## Publications
+University of Georgia (PROJECT00013189)
 
-A complete list of publications will be available here.
+This project uses eye-tracking methods to examine how linguistic complexity and cognitive resources influence auditory sentence processing in neurotypical adults.
 
-## Conference Presentations
+### Structural-Linguistic Variables in Second Language Proficiency Assessment: A Cross-Linguistic Study of TOEFL iBT Scores
 
-A complete list of conference presentations will be available here.
+University of Georgia (PROJECT00013080)
+
+This project investigates how cross-linguistic structural factors contribute to systematic variation in second-language proficiency outcomes.
+
+## Research Methods
+
+My work integrates experimental, quantitative, and computational approaches to language research. Current methodologies include eye-tracking, psycholinguistic experimentation, corpus analysis, natural language processing, and reproducible open-science workflows.
+## Publications in Press
+
+Keser, A. E. (in press). *Reflexivity, agreement, and binding domains in Turkish: Rethinking the analysis of pronominal structures*. UGA Working Papers in Linguistics.
+
+## Manuscripts Under Review
+
+Anjum, J., Keser, A. E., Niharika, M. K., & Scoggins, K. (2026). *A systematic review and meta-analysis of semantic feature-based treatments (SBTs) in bilingual aphasia*. Under review at *Aphasiology*.
+
+Anjum, J., Keser, A. E., & Hallowell, B. (2026). *Differential capturing of automatic versus strategic lexical-semantic processes: Evidence from a traditional semantic priming paradigm*. Under review at *Journal of Speech, Language, and Hearing Research*.
+
+Kucuk, E. B., Keser, A. E., & Chiesa, D. (2026). *Cross-linguistic structure and systematic variation in L2 outcomes: Insights from TOEFL iBT*. Under review at *Studies in Second Language Acquisition*.
+
+## Research Outputs
+
+Anjum, J., Hallowell, B., & Keser, A. E. (2026). *Lexical-Semantic and Visuocognitive (LSV) Stimulus Bank* [Data set]. Open Science Framework.
+
+Additional article PDFs, datasets, and supplementary materials will be added as they become publicly available.
