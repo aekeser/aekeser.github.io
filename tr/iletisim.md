@@ -11,5 +11,4 @@ E-posta: [aekeser@uga.edu](mailto:aekeser@uga.edu)
 
 Ofis: Park Hall, 200 Baldwin St, Athens, GA 30602
 
-Georgia Üniversitesi
-Dilbilim Bölümü
+Georgia Üniversitesi, Dilbilim Bölümü
