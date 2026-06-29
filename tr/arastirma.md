@@ -41,17 +41,17 @@ Bu proje, diller arası yapısal farklılıkların ikinci dil yeterlilik ölçü
 
 Araştırmalarım deneysel, nicel ve hesaplamalı yöntemleri bir araya getirmektedir. Güncel çalışmalarımda göz izleme, psikodilbilimsel deneyler, derlem analizi, doğal dil işleme yöntemleri ve açık bilim uygulamalarından yararlanılmaktadır.
 
-## Baskı Sürecindeki Yayınlar
+## Yayınlar
 
-Keser, A. E. (baskıda). *Reflexivity, agreement, and binding domains in Turkish: Rethinking the analysis of pronominal structures*. UGA Working Papers in Linguistics.
+Keser, A. E. (2026). Reflexivity, agreement, and binding domains in Turkish: Rethinking the analysis of pronominal structures. *UGA Working Papers in Linguistics, 9*. https://ling.franklin.uga.edu/working-papers-vol-9-2026
 
 ## Değerlendirme Sürecindeki Çalışmalar
 
-Anjum, J., Keser, A. E., Niharika, M. K., & Scoggins, K. (2026). *A systematic review and meta-analysis of semantic feature-based treatments (SBTs) in bilingual aphasia*. Aphasiology dergisinde değerlendirme sürecinde.
+Anjum, J., Keser, A. E., Niharika, M. K., & Scoggins, K. (2026). A systematic review and meta-analysis of semantic feature-based treatments (SBTs) in bilingual aphasia. *Aphasiology* dergisinde değerlendirme sürecinde.
 
-Anjum, J., Keser, A. E., & Hallowell, B. (2026). *Differential capturing of automatic versus strategic lexical-semantic processes: Evidence from a traditional semantic priming paradigm*. Journal of Speech, Language, and Hearing Research dergisinde değerlendirme sürecinde.
+Anjum, J., Keser, A. E., & Hallowell, B. (2026). Differential capturing of automatic versus strategic lexical-semantic processes: Evidence from a traditional semantic priming paradigm. *Journal of Speech, Language, and Hearing Research* dergisinde değerlendirme sürecinde.
 
-Kucuk, E. B., Keser, A. E., & Chiesa, D. L. (2026). *Cross-Linguistic Structure and TOEFL iBT Performance: Evidence from a Computational Measure of Linguistic Distance*. Studies in Second Language Acquisition dergisinde değerlendirme sürecinde.
+Kucuk, E. B., Keser, A. E., & Chiesa, D. L. (2026). Cross-Linguistic Structure and TOEFL iBT Performance: Evidence from a Computational Measure of Linguistic Distance. *Studies in Second Language Acquisition* dergisinde değerlendirme sürecinde.
 
 ## Veri Setleri ve Araştırma Kaynakları
 
