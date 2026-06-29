@@ -51,7 +51,7 @@ Anjum, J., Keser, A. E., Niharika, M. K., & Scoggins, K. (2026). *A systematic r
 
 Anjum, J., Keser, A. E., & Hallowell, B. (2026). *Differential capturing of automatic versus strategic lexical-semantic processes: Evidence from a traditional semantic priming paradigm*. Journal of Speech, Language, and Hearing Research dergisinde değerlendirme sürecinde.
 
-Kucuk, E. B., Keser, A. E., & Chiesa, D. (2026). *Cross-linguistic structure and systematic variation in L2 outcomes: Insights from TOEFL iBT*. Studies in Second Language Acquisition dergisinde değerlendirme sürecinde.
+Kucuk, E. B., Keser, A. E., & Chiesa, D. (2026). *Cross-Linguistic Structure and TOEFL iBT Performance: Evidence from a Computational Measure of Linguistic Distance*. Studies in Second Language Acquisition dergisinde değerlendirme sürecinde.
 
 ## Veri Setleri ve Araştırma Kaynakları
 
