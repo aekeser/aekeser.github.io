@@ -22,6 +22,10 @@ I am interested in aphasia and related language disorders, particularly the cogn
 
 My research also explores computational and quantitative approaches to language, including natural language processing, corpus-based methods, and reproducible research infrastructure.
 
+## Publications
+
+Keser, A. E. (2026). Reflexivity, agreement, and binding domains in Turkish: Rethinking the analysis of pronominal structures. *UGA Working Papers in Linguistics, 9*. https://ling.franklin.uga.edu/working-papers-vol-9-2026
+
 ## Ongoing Projects
 
 ### An Eye-Tracking Investigation of Auditory Language Processing in Neurotypical Adults
@@ -39,17 +43,14 @@ This project investigates how cross-linguistic structural factors contribute to 
 ## Research Methods
 
 My work integrates experimental, quantitative, and computational approaches to language research. Current methodologies include eye-tracking, psycholinguistic experimentation, corpus analysis, natural language processing, and reproducible open-science workflows.
-## Publications in Press
-
-Keser, A. E. (in press). *Reflexivity, agreement, and binding domains in Turkish: Rethinking the analysis of pronominal structures*. UGA Working Papers in Linguistics.
 
 ## Manuscripts Under Review
 
-Anjum, J., Keser, A. E., Niharika, M. K., & Scoggins, K. (2026). *A systematic review and meta-analysis of semantic feature-based treatments (SBTs) in bilingual aphasia*. Under review at *Aphasiology*.
+Anjum, J., Keser, A. E., Niharika, M. K., & Scoggins, K. (2026). A systematic review and meta-analysis of semantic feature-based treatments (SBTs) in bilingual aphasia. Under review at *Aphasiology*.
 
-Anjum, J., Keser, A. E., & Hallowell, B. (2026). *Differential capturing of automatic versus strategic lexical-semantic processes: Evidence from a traditional semantic priming paradigm*. Under review at *Journal of Speech, Language, and Hearing Research*.
+Anjum, J., Keser, A. E., & Hallowell, B. (2026). Differential capturing of automatic versus strategic lexical-semantic processes: Evidence from a traditional semantic priming paradigm. Under review at *Journal of Speech, Language, and Hearing Research*.
 
-Kucuk, E. B., Keser, A. E., & Chiesa, D. L. (2026). *Cross-Linguistic Structure and TOEFL iBT Performance: Evidence from a Computational Measure of Linguistic Distance*. Under review at *Studies in Second Language Acquisition*.
+Kucuk, E. B., Keser, A. E., & Chiesa, D. L. (2026). Cross-Linguistic Structure and TOEFL iBT Performance: Evidence from a Computational Measure of Linguistic Distance. Under review at *Studies in Second Language Acquisition*.
 
 ## Research Outputs
 
