@@ -50,8 +50,6 @@ Anjum, J., Keser, A. E., Niharika, M. K., & Scoggins, K. (2026). A systematic re
 
 Anjum, J., Keser, A. E., & Hallowell, B. (2026). Differential capturing of automatic versus strategic lexical-semantic processes: Evidence from a traditional semantic priming paradigm. Under review at *Journal of Speech, Language, and Hearing Research*.
 
-Kucuk, E. B., Keser, A. E., & Chiesa, D. L. (2026). Cross-Linguistic Structure and TOEFL iBT Performance: Evidence from a Computational Measure of Linguistic Distance. Under review at *Studies in Second Language Acquisition*.
-
 ## Research Outputs
 
 Anjum, J., Hallowell, B., & Keser, A. E. (2026). *Lexical-Semantic and Visuocognitive (LSV) Stimulus Bank* [Data set]. Open Science Framework.
