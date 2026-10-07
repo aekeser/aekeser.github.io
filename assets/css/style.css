@@ -174,3 +174,25 @@ a:hover {
 .language-switch a {
     margin-left: 0;
 }
+
+/* Lexical prominence project page */
+
+.lexical-prominence-project .site-main img {
+    display: block;
+    width: 100%;
+    max-width: 680px;
+    height: auto;
+    margin: 1.75rem auto 2.5rem;
+}
+
+.lexical-prominence-project .site-main h3 {
+    margin-top: 2.25rem;
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 700px) {
+    .lexical-prominence-project .site-main img {
+        max-width: 100%;
+        margin: 1.25rem auto 2rem;
+    }
+}

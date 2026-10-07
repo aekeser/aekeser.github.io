@@ -2,6 +2,7 @@
 layout: default
 title: Lexical Prominence and TTS
 permalink: /lexical-prominence-tts/
+body_class: lexical-prominence-project
 ---
 
 # Acoustic Implementation of Lexical Prominence in Human and Synthetic Speech
